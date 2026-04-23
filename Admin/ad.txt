@@ -1,0 +1,2 @@
+adnan-rag-project
+docker run --env-file .env -p 8083:8083 -it pdf-read-user  
